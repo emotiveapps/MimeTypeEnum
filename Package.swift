@@ -14,7 +14,7 @@ let package = Package(
     .library(
       name: "MimeTypeEnum",
       targets: ["MimeTypeEnum"]
-    ),
+    )
   ],
   targets: [
     .target(
@@ -23,6 +23,6 @@ let package = Package(
     .testTarget(
       name: "MimeTypeEnumTests",
       dependencies: ["MimeTypeEnum"]
-    ),
+    )
   ]
 )
