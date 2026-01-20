@@ -1,5 +1,10 @@
 # MimeTypeEnum
 
+<!-- TODO: Add Swift Package Index badges after package is indexed
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FYourUsername%2FMimeTypeEnum%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/YourUsername/MimeTypeEnum)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FYourUsername%2FMimeTypeEnum%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/YourUsername/MimeTypeEnum)
+-->
+
 A Swift enum providing comprehensive MIME type mappings with file extension lookup.
 
 ## Installation
