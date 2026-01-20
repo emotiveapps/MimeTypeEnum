@@ -1,9 +1,7 @@
 # MimeTypeEnum
 
-<!-- TODO: Add Swift Package Index badges after package is indexed
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FYourUsername%2FMimeTypeEnum%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/YourUsername/MimeTypeEnum)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FYourUsername%2FMimeTypeEnum%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/YourUsername/MimeTypeEnum)
--->
+[![Swift 5.9+](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
+[![Platforms](https://img.shields.io/badge/Platforms-macOS%20|%20iOS%20|%20tvOS%20|%20watchOS-blue.svg)](https://developer.apple.com)
 
 A Swift enum providing comprehensive MIME type mappings with file extension lookup.
 
@@ -13,7 +11,7 @@ Add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YourOrg/MimeTypeEnum", from: "1.0.0")
+    .package(url: "https://github.com/emotiveapps/MimeTypeEnum", from: "1.0.0")
 ]
 ```
 
